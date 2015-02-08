@@ -48,11 +48,12 @@ table {
 
 /* LAYOUT STYLES */
 body {
+  width:1060px;
   font-size: 15px;
   line-height: 1.5; 
   background: #fafafa url(http://i.imgur.com/QkKgD9s.png?1) 0 0 repeat;
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
-  font-weight: 600;
+  font-weight: 400;
   color: #666;
 }
 
